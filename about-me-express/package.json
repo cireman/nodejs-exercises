@@ -1,0 +1,26 @@
+{
+  "name": "about-me-express",
+  "version": "1.0.0",
+  "description": "Just a little exercise to practice ralational tables 1:M",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "1:M",
+    "relational",
+    "tables",
+    "exercise"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
